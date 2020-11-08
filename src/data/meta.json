@@ -1,13 +1,13 @@
 {
-    "title": "Nerds of the 90s",
-    "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
-    "image": "freakazoid.jpg",
+    "title": "Wildcat! SysOps",
+    "description": "Wildcat! SysOps Unite! This is a webring of Wildcat/WINServer systems still online today.",
+    "image": "wcSysops.jpg",
     "url": "https://webringdemo.netlify.com",
-    "repo": "https://github.com/maxboeck/webring",
+    "repo": "https://github.com/thomaskloos/webring",
     "admins": [
         {
-            "name": "Max Böck",
-            "url": "https://github.com/maxboeck"
+            "name": "Thomas Kloos",
+            "url": "https://github.com/thomaskloos"
         }
     ]
 }
